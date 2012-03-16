@@ -1,0 +1,12 @@
+C:\Users\user\Documents\Polytech\S6\Kinect\MagicKinect\MagicKinect\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\user\Documents\Polytech\S6\Kinect\MagicKinect\MagicKinect\obj\x86\Debug\App.baml
+C:\Users\user\Documents\Polytech\S6\Kinect\MagicKinect\MagicKinect\obj\x86\Debug\EcranMenu.baml
+C:\Users\user\Documents\Polytech\S6\Kinect\MagicKinect\MagicKinect\obj\x86\Debug\MainWindow.baml
+C:\Users\user\Documents\Polytech\S6\Kinect\MagicKinect\MagicKinect\obj\x86\Debug\App.g.cs
+C:\Users\user\Documents\Polytech\S6\Kinect\MagicKinect\MagicKinect\obj\x86\Debug\EcranMenu.g.cs
+C:\Users\user\Documents\Polytech\S6\Kinect\MagicKinect\MagicKinect\obj\x86\Debug\MainWindow.g.cs
+C:\Users\user\Documents\Polytech\S6\Kinect\MagicKinect\MagicKinect\obj\x86\Debug\MagicKinect_MarkupCompile.cache
+C:\Users\user\Documents\Polytech\S6\Kinect\MagicKinect\MagicKinect\obj\x86\Debug\MagicKinect.g.resources
+C:\Users\user\Documents\Polytech\S6\Kinect\MagicKinect\MagicKinect\obj\x86\Debug\MagicKinect.Properties.Resources.resources
+C:\Users\user\Documents\Polytech\S6\Kinect\MagicKinect\MagicKinect\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\user\Documents\Polytech\S6\Kinect\MagicKinect\MagicKinect\obj\x86\Debug\GenerateResource.write.1.tlog
