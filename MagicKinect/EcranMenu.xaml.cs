@@ -107,10 +107,5 @@ namespace MagicKinect
 
             kinect.ScalePosition(HeadEllipse, first.Joints[JointType.Head]);
         }
-
-        private void button1_Click(object sender, RoutedEventArgs e)
-        {
-
-        }
-    }
+     }
 }

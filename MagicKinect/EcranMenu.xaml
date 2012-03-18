@@ -6,7 +6,7 @@
         <Canvas Height="523" HorizontalAlignment="Left" Name="canvas1" VerticalAlignment="Top" Width="610">
             <Button Canvas.Left="6" Canvas.Top="376" Content="Options" Height="141" Name="button_Option" Width="604" />
             <Button Canvas.Left="6" Canvas.Top="246" Content="Quitter" Height="124" Name="button_Quitter" Width="604" />
-            <Button Canvas.Left="6" Canvas.Top="29" Content="Jouer" Height="211" Name="button_Jouer" Width="604" Click="button1_Click" />
+            <Button Canvas.Left="4" Canvas.Top="0" Content="Jouer" Height="211" Name="button_Jouer" Width="604" />
             <Ellipse Height="42" Name="HeadEllipse" Stroke="Red" Width="47" Canvas.Left="296" Canvas.Top="29" />
             <Ellipse Height="46" Name="leftHandEllipse" Stroke="Black" Width="46" Canvas.Left="296" Canvas.Top="29" />
             <Ellipse Height="46" Name="rightHandEllipse" Stroke="Black" Width="46" Canvas.Left="297" Canvas.Top="29" />
